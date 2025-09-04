@@ -8,7 +8,7 @@ Evidencia de screenshoot
 ## PUNTO 2
 
 Evidencia de screenshoot
-![Texto alternativo](img/punto-1/image.png)
+![Texto alternativo](img/punto-2/image.png)
 
 ## PUNTO 3
 
