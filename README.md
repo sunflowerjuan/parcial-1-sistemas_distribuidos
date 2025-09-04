@@ -8,7 +8,13 @@ Evidencia de screenshoot
 ## PUNTO 2
 
 Evidencia de screenshoot
+
+primer contenedor
 ![Texto alternativo](img/punto-2/image.png)
+
+segundo contenedor
+
+![Texto alternativo](img/punto-2/image2.png)
 
 ## PUNTO 3
 
