@@ -40,4 +40,4 @@ notas txt se borra debido a que no hemos configurado ningun tipo de persistencia
 ## PUNTO 5
 
 Evidencia de screenshoot
-![Texto alternativo](img/punto-1/image.png)
+![Texto alternativo](img/punto-5/image.png)
