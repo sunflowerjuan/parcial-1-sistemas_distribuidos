@@ -18,8 +18,14 @@ segundo contenedor
 
 ## PUNTO 3
 
-Evidencia de screenshoot
-![Texto alternativo](img/punto-1/image.png)
+Evidencia de consola
+![Texto alternativo](img/punto-3/image.png)
+
+Evidencia de navegador antes
+![Texto alternativo](img/punto-3/image2.png)
+
+Evidencia de navegador despues
+![Texto alternativo](img/punto-3/image3.png)
 
 ## PUNTO 4
 
