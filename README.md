@@ -30,7 +30,12 @@ Evidencia de navegador despues
 ## PUNTO 4
 
 Evidencia de screenshoot
-![Texto alternativo](img/punto-1/image.png)
+
+![Texto alternativo](img/punto-4/image.png)
+
+### Justificacion
+
+notas txt se borra debido a que no hemos configurado ningun tipo de persistencia, volumen etc que mapee ese archivo y lo mantenga
 
 ## PUNTO 5
 
